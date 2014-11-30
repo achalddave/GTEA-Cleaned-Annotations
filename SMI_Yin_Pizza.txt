@@ -1,7 +1,7 @@
 take		00:00:23.908	00:00:25.948	take(pizza crust container,counter)
 take		00:00:26.728	00:00:31.698	take(pizza crust,pizza crust container)
 take		00:00:39.970	00:00:40.980	take(pepper,plate)
-take		00:00:42.330	00:00:50.720	take(mushroom,mustroom container)
+take		00:00:42.330	00:00:50.720	take(mushroom,mushroom container)
 take		00:01:13.870	00:01:14.340	take(knife,plate)
 take		00:02:00.620	00:02:01.810	take(oil container,counter)
 take		00:02:17.875	00:02:19.345	take(skillet,burner)

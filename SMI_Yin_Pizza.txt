@@ -12,7 +12,7 @@ take		00:02:50.100	00:02:51.420	take(spoon,counter)
 take		00:03:11.880	00:03:12.940	take(plastic spoon,counter)
 take		00:03:39.450	00:03:40.870	take(pepper,bowl)
 take		00:03:49.295	00:03:49.755	take(pepper,plate)
-take		00:04:10.925	00:04:12.245	take(plastic spoon,counter)>
+take		00:04:10.925	00:04:12.245	take(plastic spoon,counter)
 take		00:04:37.185	00:04:38.815	take(hotdog container)
 take		00:04:52.570	00:04:53.800	take(hotdog,hotdog container)
 take		00:04:54.430	00:04:56.560	take(hotdog,hotdog container)

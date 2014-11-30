@@ -93,7 +93,7 @@ pour		00:08:14.915	00:08:19.195	pour(mozzarella cheese,mozzarella cheese contain
 wash/dry		00:00:55.280	00:01:05.370	wash(mushrooms,water,tap)
 other		00:01:15.735	00:01:51.510	cut(mushroom,knife)
 other		00:02:19.350	00:02:25.490	distribute(oil,skillet)
-other		00:02:36.100	00:02:41.850	<move around(oil,skillet,plastic spoon)
+other		00:02:36.100	00:02:41.850	move around(oil,skillet,plastic spoon)
 other		00:03:12.950	00:03:19.620	move around(mushroom slice,skillet,plastic spoon)
 other		00:03:23.160	00:03:35.820	move around(mushroom slice,skillet,plastic spoon)
 other		00:03:45.570	00:03:49.440	cut(pepper,knife)
